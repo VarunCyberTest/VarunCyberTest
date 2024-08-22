@@ -1,6 +1,6 @@
 <h1>Hi, I'm Varun! Passionate Cybersecurity Professional</h1>
 
-<h2>Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC/Honeynet project in Azure](https://github.com/VarunCyberTest/Cloud-Soc)
